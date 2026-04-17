@@ -32,5 +32,5 @@ My portfolio is here:
 
 ## Contact
 
-* LinkedIn: [your link](https://www.linkedin.com/in/sean-kinsell/)
+* LinkedIn: [Sean Kinsell](https://www.linkedin.com/in/sean-kinsell/)
 * Email: skinsell@gmail.com
