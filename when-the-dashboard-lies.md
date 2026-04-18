@@ -1,8 +1,3 @@
----
-title: "When the Dashboard Lies"
-description: "How to fix systems that break down while scaling up"
----
-
 # When the Dashboard Lies
 
 *How to fix systems that break down while scaling up*
