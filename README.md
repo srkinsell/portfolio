@@ -6,7 +6,7 @@ I lead technical programs that turn complex, distributed systems into scalable, 
 
 ## Portfolio
 
-[View Portfolio][https://srkinsell.github.io/portfolio/]
+[View Portfolio](https://srkinsell.github.io/portfolio/)
 
 ## Focus
 
