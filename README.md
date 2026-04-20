@@ -6,13 +6,13 @@ I lead technical programs that turn complex, distributed systems into scalable, 
 
 ## Portfolio
 
-👉 https://srkinsell.github.io/portfolio/
+[View Portfolio][https://srkinsell.github.io/portfolio/]
 
 ## Focus
 
 * Driving technical programs across product, engineering, and data systems
 * Identifying and resolving failure points in distributed workflows
-* Designing scalable processes for global products and operations
+* Designing scalable workflows and systems for global product delivery
 * Translating between technical systems and business requirements
 
 ## Contact
